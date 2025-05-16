@@ -30,4 +30,4 @@ This application utilizes the OpenWeatherMap API to retrieve weather data. You c
 **Contact:**
 
 
-Please reach me through mail : addiraaz45@gmail.com
+Please reach me through mail : adarshseghal4@gmail.com
